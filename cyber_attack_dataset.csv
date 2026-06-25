@@ -1,4 +1,3 @@
-duration,src_bytes,dst_bytes,packet_count,protocol,failed_logins,attack_type
 1,8605,418,631,TCP,0,DDoS
 1,499,148,131,UDP,0,PortScan
 10,370,160,105,UDP,0,PortScan
@@ -498,3 +497,4 @@ duration,src_bytes,dst_bytes,packet_count,protocol,failed_logins,attack_type
 10,53,47,135,TCP,0,PortScan
 5,7617,441,545,TCP,0,DDoS
 2,6981,144,905,TCP,0,DDoS
+8,387,189,234,TCP,0,PortScan
